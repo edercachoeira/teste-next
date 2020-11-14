@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Eder Cachoeira</h1>
+    return <h1>Alterando de novo</h1>
 }
 
 export default Home
